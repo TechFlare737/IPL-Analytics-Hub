@@ -1,6 +1,6 @@
 # IPL Data Analysis Project
 
-_Created with [AIPRM Prompt "Readme Generator | Markdown Format | GitHub."](https://www.aiprm.com/prompts/softwareengineering/text-editor/1794387468406222848/)_
+
 
 ## 📌 Project Overview
 This project focuses on **IPL data analysis** using **SQL**. It includes complex queries to extract insights about player and team performances across multiple seasons.
